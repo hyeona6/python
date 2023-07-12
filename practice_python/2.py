@@ -1,0 +1,9 @@
+name="Bob"
+print(name)
+a=10
+b=a
+print(b)
+print(type("문자열"))
+print(2>3)
+print(True)
+print(type(True))
